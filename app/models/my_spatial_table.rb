@@ -1,0 +1,2 @@
+class MySpatialTable < ApplicationRecord
+end

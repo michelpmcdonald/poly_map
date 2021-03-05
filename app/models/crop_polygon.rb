@@ -1,0 +1,2 @@
+class CropPolygon < ApplicationRecord
+end
